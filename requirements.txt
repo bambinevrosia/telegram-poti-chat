@@ -1,0 +1,4 @@
+telegram
+json
+asyncio
+python-dotenv
