@@ -1,2 +1,2 @@
 # mon-poti-chat
-pd
+bot telegram de petit chats <3 premier projet en python soyez gentil svp :(
